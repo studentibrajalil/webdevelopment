@@ -1,0 +1,42 @@
+
+    /* Lettertype */
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+/* Kopgroottes */
+h1 {
+    font-size: 80px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+/* Kleur voor h1 en h2 in de header */
+header h1,
+header h2 {
+    color: #EDF2F4;
+}
+
+/* Padding voor header, footer en education */
+header, footer, .education {
+    padding: 30px;
+}
+
+/* Kleur voor links */
+a {
+    color: #EF233C;
+}
+
+/* Grijze tekstkleur in header en footer */
+header, footer {
+    color: #8D99AE;
+    background-color: #2B2D42;
+    margin: 10px 0;
+}
+
+/* Achtergrondkleur voor education */
+.education {
+    background-color: #8D99AE;
+}

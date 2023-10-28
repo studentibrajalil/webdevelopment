@@ -1,0 +1,19 @@
+body {
+    font-family: Verdana;
+    font-size: 1.1em;
+    background-color: silver;
+    color: darkblue;
+}
+
+h1 {
+    font-variant: small-caps;
+    background-color: red;
+}
+
+a:hover {
+    border: 2px solid black; /* Kaderrand van 2px breed en zwart */
+}
+
+.stippeltjesrand {
+    border: 1px dashed #555; /* Gestippelde rand van 1px breed en donkergrijs (#555) */
+}

@@ -1,0 +1,18 @@
+body {
+    margin:0; /* body krijgt door user agent stylesheet een margin die je meestal niet wil */
+}
+.cloudsBlock {
+    padding:150px;
+    background-size:cover;
+    background-image: url("IMAGES/INFINTE.webp");
+}
+
+.cloudsInformation {
+    padding:100px;
+    border:white solid 1px;
+    color:white;
+}
+
+
+
+

@@ -1,0 +1,46 @@
+
+.checklist {
+    list-style: none;
+    padding-left: 0;
+}
+
+.checklist li {
+    margin-bottom: 10px;
+    position: relative;
+    padding-left: 25px; /* Ruimte voor het icoontje */
+}
+
+.checklist li.checked::before {
+    content: "☑"; /* Weergave van het aangevinkte icoontje */
+    position: absolute;
+    left: 0;
+}
+
+.checklist li::before {
+    content: "☐"; /* Weergave van het niet-aangevinkte icoontje */
+    position: absolute;
+    left: 0;
+}
+.checklist {
+    list-style: none;
+    padding-left: 0;
+}
+
+.checklist li {
+    margin-bottom: 10px;
+    position: relative;
+    padding-left: 25px; /* Ruimte voor het icoontje */
+}
+
+.checklist li.checked::before {
+    content: "☑"; /* Weergave van het aangevinkte icoontje */
+    position: absolute;
+    left: 0;
+}
+
+.checklist li::before {
+    content: "☐"; /* Weergave van het niet-aangevinkte icoontje */
+    position: absolute;
+    left: 0;
+}
+
