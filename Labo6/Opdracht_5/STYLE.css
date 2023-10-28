@@ -1,16 +1,12 @@
 body {
-    margin:0; /* body krijgt door user agent stylesheet een margin die je meestal niet wil */
+    font-size: 30px;
 }
-.cloudsBlock {
-    padding:150px;
-    background-size:cover;
-    background-image: url("IMAGES/INFINTE.webp");
-}
-
-.cloudsInformation {
-    padding:100px;
-    border:white solid 1px;
-    color:white;
+.icon {
+    background-image: url("IMAGES/icon.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 20px, 20px;
+    padding-left: 25px;
 }
 
 
