@@ -1,0 +1,37 @@
+body {
+    font-family: Arial;
+    width: 95%;
+    margin:auto;
+}
+
+section > header {
+    padding: 0 10px;
+    font-weight: bold;
+    color:white;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-image: url("../IMAGES/header - kopie.jpg");
+    font-size:25px;
+}
+
+section > nav {
+    background-color:dimgrey;
+    height:30px;
+    padding: 10px 0 0 2px;
+}
+section > nav > a {
+    color:lightgreen;
+    text-decoration: none;
+}
+section > article {
+    background-color:whitesmoke;
+}
+section > article > header {
+    font-size:30px;
+    color:dimgray;
+    text-decoration: underline;
+}
+section > article > header > h1 {
+    padding: 20px 0 0 10px;
+}
