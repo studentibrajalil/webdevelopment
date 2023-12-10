@@ -1,0 +1,18 @@
+html, body{
+    margin:0;
+    font-family:sans-serif;
+}
+main{
+    margin:10px;
+}
+
+main > header{
+    font-size: 2em;
+    font-weight:bold;
+    padding: 10px 20px;
+    background-color: darkmagenta;
+    color: floralwhite;
+}
+
+
+
